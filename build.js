@@ -1,0 +1,1 @@
+require("child_process").exec("npm i simple-rc4 tweetnacl blakejs bytebuffer prettyjson figlet", console.log)
